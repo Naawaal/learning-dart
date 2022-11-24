@@ -16,9 +16,11 @@ type variable1_name, variable2_name, variable3_name, ....variableN_name;
 /*
 Variable name or identifiers can’t be the keyword.
 Variable name or identifiers can contain alphabets and numbers.
-Variable name or identifiers can’t contain spaces and special characters, except the underscore(_) and the dollar($) sign.
+Variable name or identifiers can’t contain spaces and special characters, except
+the underscore(_) and the dollar($) sign.
 Variable name or identifiers can’t begin with number. 
-Note: Dart supports type-checking, it means that it checks whether the data type and the data that variable holds are specific to that data or not.
+Note: Dart supports type-checking, it means that it checks whether the data type
+ and the data that variable holds are specific to that data or not.
 */
 void main() {
   // Variable Name

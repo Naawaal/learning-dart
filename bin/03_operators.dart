@@ -54,4 +54,32 @@ void main() {
       value2); //Checks if the values of the two operands are equal (true if equal)
   print(value1 !=
       value2); //Checks if the values of the two operands are not equal (true if not equal)
+
+  //Logical Operators
+  var a1 = 150;
+  var b1 = 200;
+  var c1 = 150;
+  var d1 = 200;
+
+  print((a1 == b1) && (c1 == d1));
+  print((a1 == b1) || (c1 == d1));
+
+  //Type Taste Operator
+
+  var name = "Dipsal";
+  var number = 98000000;
+
+  print(name is String);
+  print(number is int);
+
+//Assignment Operators
+
+  var n = 10;
+  // n += 5;
+  // n -= 5;
+  // n *= 5;
+
+  print(n);
+
+//
 }
