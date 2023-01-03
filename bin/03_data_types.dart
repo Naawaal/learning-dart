@@ -1,3 +1,11 @@
+/* Data Types
+  Numbers.
+  Strings.
+  Booleans.
+  Lists.
+  Maps.
+  */
+
 void main() {
 // Build in data-types
 
@@ -29,12 +37,4 @@ void main() {
   print(price.runtimeType);
   print(is_true.runtimeType);
   print(mmm.runtimeType);
-
-  /* Data Types
-  Numbers.
-  Strings.
-  Booleans.
-  Lists.
-  Maps.
-  */
 }

@@ -9,7 +9,4 @@ void main() {
   var users = name ?? 'Random';
 
   print(users);
-
-  var namea = 'nawal';
-  print('My Name Is $name');
 }
